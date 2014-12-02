@@ -1,36 +1,38 @@
-tutorial
+秋アニメ主題歌リスト
 ========
+githubの使い方を学びながら、アニメ生活を充実させたい。
 
-githubの使い方を学ぶ
-
-
-#冬anime　主題歌発売日
+#秋anime　主題歌発売日
 
 ##ビルドファイターズトライ
 - BACK-ON セルリアン 12/7
 - screen mode  アメイジングザワールド  発売中
 
 ##ぐぐれこっくりさん
-- 末光篤 （suemitsu & the suemitsu） This Merry-Go-Round Song  11/26
+- OP　発売中
+- 末光篤 （suemitsu & the suemitsu） This Merry-Go-Round Song  発売中
 
 ##神撃のバハムート
-- SiM   EXiSTENCE   未定
+- SiM   EXiSTENCE  TV版のみ発売中
 - 清水理沙   Promised Land  未定
 
 ##弱虫ペダル
-- LASTGASP  Days  購入済み 
-- Rookiez is Punked リアライズ   11/19
+- LASTGASP  Days 発売中 
+- Rookiez is Punked リアライズ   12/1やっとitunes配信開始
 
 ##異能バトルは日常系の中で
-- qverktett:II  OVERLAPPERS  11/19
-- かと*ふく you gotta love me  11/19
+- qverktett:II  OVERLAPPERS  発売中
+- かと*ふく you gotta love me 発売中
 
 ##トリニティセブン
-- ZAQ seven doors. 11/19
-- メイガストゥ Beautiful  Sentence 11/19 など、毎話新曲
+- ZAQ seven doors. 発売中
+- メイガストゥ Beautiful  Sentence 発売中
+- ユイレヴィ　シャバダバインアメージング　発売中
+- セキュリティポリッティ　TRINITY☓SEVENTH+HEAVEN 12/19
+- トゥインクルマジック　ReSTART THE WORLD 12/19
 
 ##4月の君は嘘
-- goose house 光るなら 11/19
+- goose house 光るなら 発売中
 - wacci キラメキ 12/3
 
 ##甘城ブリリアントパーク
@@ -50,25 +52,25 @@ githubの使い方を学ぶ
 
 ##Fate stay night
 - 綾野ましろ　ideal white 発売中
-- karafina        believe　11/19
+- karafina        believe　発売中
 
 ##ワールドトリガー　
 - ソナーポケット　girigiri　発売中 
 
 ##七つの大罪
 - いきものがかり　熱情のスペクトラム　発売中
-- FLOW*GRANRODEO seven 購入済み
+- FLOW*GRANRODEO seven 発売中
 
 ##天体のメソッド
 - Larval Stage Planning Stargazer  発売中
-- fhana 星屑のインターリュード　購入済み
+- fhana 星屑のインターリュード　発売中
 
 ##アカメが斬る
-- 真山りか　Liar Mask 11/29 
-- 雨宮天　月灯り　11/19
+- 真山りか　Liar Mask 発売中
+- 雨宮天　月灯り　発売中
 
 ##グリザイアの果実
-- 黒崎真音　楽園の翼　購入済み
+- 黒崎真音　楽園の翼　発売中
 - 南條愛乃　あなたの愛した世界　発売中
 
 ##SAO2
@@ -81,14 +83,14 @@ githubの使い方を学ぶ
 - ツインテールズ(蝶々pプロデュース) ツインテールドリーマー 発売中
 
 ##しろばこ
-- 石田燿子 colorful box 11/26
-- るるきゃん他 Animetic love letter 11/26
+- 石田燿子 colorful box 発売中
+- るるきゃん他 Animetic love letter 発売中
 
 ##アルジェヴォルン
 - KOTOKO zone-it. 発売中
-- 玉置成実  vivid telepathy 11/19
+- 玉置成実  vivid telepathy 発売中
 
 
 ##電気街の本屋さん
-- 竹達彩奈  齧りかけのりんご  購入済み
+- 竹達彩奈  齧りかけのりんご 発売中
 - denkigirls  two-dimension's love 発売中
