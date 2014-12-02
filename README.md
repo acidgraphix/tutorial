@@ -90,7 +90,14 @@ githubの使い方を学びながら、アニメ生活を充実させたい。
 - KOTOKO zone-it. 発売中
 - 玉置成実  vivid telepathy 発売中
 
-
 ##電気街の本屋さん
 - 竹達彩奈  齧りかけのりんご 発売中
 - denkigirls  two-dimension's love 発売中
+
+##サイコパス２
+- 凛として時雨　Enigmatic Feeling 発売中
+- EGOIST Fallen 発売中
+
+##クロスアンジュ
+- 水樹奈々　禁断のレジスタンス　発売中
+- 喜多村英梨　凛麗　発売中
